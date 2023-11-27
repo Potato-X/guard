@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body,
+#app {
+  height: 100%;
+  width: 100%;
+}
+
+.input-w {
+  width: 224px !important;
+}
+.mini,
+.el-button--mini {
+  height: 26px;
+  width: 72px;
+}
+.el-button:has(.el-icon:only-child) {
+  height: 26px;
+  width: 26px;
+  padding: 5px;
+  box-sizing: border-box;
+}

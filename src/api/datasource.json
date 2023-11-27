@@ -1,0 +1,16 @@
+{
+  "overallSituation": {
+    "status": "00000",
+    "data": {
+      "accessSystemNum": 5,
+      "channelNum": 4
+    }
+  },
+  "invalidAccess": {
+    "status": "00000",
+    "data": {
+      "invalidSystemNum": 10,
+      "invalidAccessNum": 5
+    }
+  }
+}

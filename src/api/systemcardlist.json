@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1713742402096726016",
+    "systemName": "T20系统",
+    "systemCode": "T20T20",
+    "manufacturerName": "九恒星",
+    "scopes": ["BP"],
+    "secretKey": "C91WQJZiuyU1WkaaP3BpRrXwDw1TR2z6dQgTOXrxjTOzJYbgLMukjGf4LAzFgJDo",
+    "isEnable": "1",
+    "createTime": null,
+    "updateTime": null,
+    "tenantId": null,
+    "callbackCount": "0",
+    "exceptionCount": "0"
+  },
+  {
+    "id": "1666379872911491072",
+    "systemName": "测试T20",
+    "systemCode": "TEST_T20",
+    "manufacturerName": "测试T20",
+    "scopes": ["BP,CP"],
+    "secretKey": "C91WQJZiuyU1WkaaP3BpRh4DlKcSYU/jc/cviMw6GgCmMfvzxs0ENIwIlNDj+dyE",
+    "isEnable": "1",
+    "createTime": null,
+    "updateTime": null,
+    "tenantId": null,
+    "callbackCount": "3",
+    "exceptionCount": "442"
+  },
+  {
+    "id": "1666720034124201984",
+    "systemName": "N20",
+    "systemCode": "N20",
+    "manufacturerName": "N20系统",
+    "scopes": ["BP"],
+    "secretKey": "iM048nkvS1uxVr/1U61rKR9gn/CPZRPNOJO/eO8cfhfzydM3QVF4PdUlunsSIrD2",
+    "isEnable": "1",
+    "createTime": null,
+    "updateTime": null,
+    "tenantId": null,
+    "callbackCount": "12",
+    "exceptionCount": "0"
+  },
+  {
+    "id": "1722172196236820480",
+    "systemName": "测试系统",
+    "systemCode": "test_test",
+    "manufacturerName": "test_test",
+    "scopes": ["BP,CP"],
+    "secretKey": "bbin0LSabZ36stuLSZ4d+rcSecGAF4XsT6a4kDgTJN4d3nzHSeWUh71C6eiw5pUi",
+    "isEnable": "1",
+    "createTime": null,
+    "updateTime": null,
+    "tenantId": null,
+    "callbackCount": "0",
+    "exceptionCount": "0"
+  },
+  {
+    "id": "1725427041576157184",
+    "systemName": "222334",
+    "systemCode": "22222",
+    "manufacturerName": null,
+    "scopes": ["BP"],
+    "secretKey": "X+xaFsCq1bVF1PSpnNhmbyqmGoLoG00w95Ww+DX1fVbenuSjRSLaEKHvBWLXI3RL",
+    "isEnable": "1",
+    "createTime": null,
+    "updateTime": null,
+    "tenantId": null,
+    "callbackCount": "0",
+    "exceptionCount": "0"
+  }
+]

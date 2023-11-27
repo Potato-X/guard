@@ -1,0 +1,34 @@
+{
+  "version": "0.0.1",
+  "initStsResInfo": [
+    {
+      "relaName": "首页",
+      "relaUrl": "/home/index"
+    },
+    {
+      "relaName": "数据源配置",
+      "relaUrl": "/home/datasource"
+    },
+    {
+      "relaName": "接口中心",
+      "relaUrl": "/home/interface"
+    },
+    {
+      "relaName": "金融网关",
+      "children": [
+        {
+          "relaName": "总览",
+          "relaUrl": "/home/fgw-web/"
+        },
+        {
+          "relaName": "接入系统",
+          "relaUrl": "/home/fgw-web/system"
+        },
+        {
+          "relaName": "账户",
+          "relaUrl": "/home/fgw-web/account"
+        }
+      ]
+    }
+  ]
+}
