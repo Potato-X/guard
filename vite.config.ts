@@ -23,6 +23,6 @@ export default defineConfig({
           element:["element-plus","@element-plus/icons-vue"]
         }
       }
-    }
+    },
   }
 });
