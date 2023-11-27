@@ -128,7 +128,7 @@ const { hours, minites, seconds } = useStayTime();
   width: 302px;
   box-sizing: border-box;
   padding-top: 24px;
-  background-image: url('../../../public/assets/userInfoBg.png');
+  background-image: url('/assets/userInfoBg.png');
   background-size: cover;
   background-repeat: no-repeat;
   position: relative;

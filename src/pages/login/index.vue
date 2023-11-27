@@ -11,7 +11,7 @@ import LoginForm from './components/loginform.vue';
 <style lang="scss" scoped>
 .login-bg {
   position: relative;
-  background-image: url('../../public/assets/fgwlogin_BG.png');
+  background-image: url('/assets/fgwlogin_BG.png');
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
